@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'PrimeScore'
+copyright = '2026, Team 7a'
+author = 'Team 7a'
 
 release = '0.1'
 version = '0.1.0'
